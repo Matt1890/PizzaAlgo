@@ -9,7 +9,12 @@ drive to shop
 pick up pizza
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 is this a branch
+=======
+make a change for branch
+make a new change for commit
+>>>>>>> Change4Branch
 =======
 make a change for branch
 make a new change for commit
